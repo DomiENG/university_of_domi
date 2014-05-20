@@ -15,22 +15,22 @@ Prep work
 Reading
 ---------------------
 
-[Relentlessly Resourceful](http://www.paulgraham.com/relres.html)
-[The Hardest Lessons for Startups to Learn](http://paulgraham.com/startuplessons.html)
-[Do Things That Don't Scale](http://paulgraham.com/ds.html)
+- [Relentlessly Resourceful](http://www.paulgraham.com/relres.html)
+- [The Hardest Lessons for Startups to Learn](http://paulgraham.com/startuplessons.html)
+- [Do Things That Don't Scale](http://paulgraham.com/ds.html)
 
 Watching
 ---------------------
 
-[1000 Days of Airbnb](https://www.youtube.com/watch?v=L03vBkOKTrc)
-[Care Immensely or Die](https://www.youtube.com/watch?v=7lvur6cUJGs)
-[Abundance is Our Future](https://www.youtube.com/watch?v=BltRufe5kkI)
+- [1000 Days of Airbnb](https://www.youtube.com/watch?v=L03vBkOKTrc)
+- [Care Immensely or Die](https://www.youtube.com/watch?v=7lvur6cUJGs)
+- [Abundance is Our Future](https://www.youtube.com/watch?v=BltRufe5kkI)
 
 Yes a little code...
 ---------------------
-[Intro to Git](https://www.codeschool.com/courses/try-git)
-[Make Your First Website: Airbnb](http://www.codecademy.com/skills/prototyping)
-[A Quick Intro to Ruby on Rails](http://www.codelearn.org/)
+- [Intro to Git](https://www.codeschool.com/courses/try-git)
+- [Make Your First Website: Airbnb](http://www.codecademy.com/skills/prototyping)
+- [A Quick Intro to Ruby on Rails](http://www.codelearn.org/)
 
 
 This should take 6-8 hours in total. It may take less and don't be surprised if it does so. Please don't rush. Enjoy! 
