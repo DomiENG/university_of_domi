@@ -32,3 +32,11 @@ Content
 The goal of The University of Domi is to give Domi team members access to some of the best content online. You will read the likes of Paul Graham, work on improving your skills in Web Development, understand the Philopshy behing a startup with Peter Thiel, learn about culture, growth hacking, "doing things that don't scale", "making something people want", and "jab, jab, jab, right hook". 
 
 We hope you enjoy this adventure and when you look back at graduation hope you have found what you learned here and with Domi a major catalyst in your future success. 
+
+
+
+Here for an interview
+====================
+
+If you're hear for an interview go [here](ttps://github.com/mikeadeleke/university_of_domi/blob/master/interview_prep_work.md).
+
