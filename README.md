@@ -38,5 +38,5 @@ We hope you enjoy this adventure and when you look back at graduation hope you h
 Here for an interview
 ====================
 
-If you're hear for an interview go [here](https://github.com/mikeadeleke/university_of_domi/blob/master/interview_prep_work.md).
+If you're here for an interview go [here](https://github.com/mikeadeleke/university_of_domi/blob/master/interview_prep_work.md).
 
