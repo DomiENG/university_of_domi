@@ -40,3 +40,9 @@ Here for an interview
 
 If you're here for an interview go [here](https://github.com/mikeadeleke/university_of_domi/blob/master/interview_prep_work.md).
 
+New Team Member at Domi!
+====================
+
+If you are new to Team Domi please go [here](https://github.com/DomiENG/university_of_domi/blob/master/new_team_member.md
+). 
+
