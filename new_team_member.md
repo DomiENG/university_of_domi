@@ -5,7 +5,7 @@ Welcome! You are now a Team Member at Domi! Congrats! We're so exicted that you 
 
 We've set up the University of Domi as a continuous leanring process. After this track, you will be on your own regarding your development.
 
-At Domi, we understand that we often are as new to startups things as you are. In doing so, we have adopted many methodologies from companies we admire. We will referrence Google and Airbnb a great deal throughout the courses as they are examples of truly extraordinary companies with extraordianary founders and extraordinary people. 
+At Domi, we understand that we often are as new to startup things as you are. In doing so, we have adopted many methodologies from companies we admire. We will referrence Google and Airbnb a great deal throughout the courses as they are examples of truly extraordinary companies with extraordianary founders and extraordinary people. 
 
 At Google, they have adopted a couple systems that we will as well at Domi. They include:
 

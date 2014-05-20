@@ -1,11 +1,11 @@
 Welcome to Domi!
 ====================
 
-We're so happy you're interested in joining our team! Our mission at Domi is to make housing easy for every student. But this cannot be achieved with out amazing people working passionalitely on a mission and problem they believe in. 
+We're so happy you're interested in joining our team! Our mission at Domi is to make housing easy for every student. But this cannot be achieved without amazing people working passionately on a mission and problem they believe in. 
 
-Before you interview at Domi, we want to make both you and us are on the same page. At Domi, we have a certain way of doing things. It is a mix of our internal values mixed with the proved methdoiloes and practices of the best people in the industry.
+Before you interview at Domi, we want to make sure both you and us are on the same page. At Domi, we have a certain way of doing things. It is a mix of our internal values mixed with the proved methodologies and practices of the best people in the industry.
 
-Great companies are really just collections of great people. Therefore, for Domi to bea great company we must build a team or great people. 
+Great companies are really just collections of great people. Therefore, for Domi to be a great company we must build a team of great people. 
 
 And of course, we hope that one of those great people is you!
 
